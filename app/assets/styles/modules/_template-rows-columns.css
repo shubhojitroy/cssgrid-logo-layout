@@ -2,8 +2,31 @@
   display: grid;
   max-width: 600px;
   margin: 0 auto;
+  background: #fff;
 }
 
 .two-column-container {
   grid-template-columns: 1fr 2px 1fr;
+}
+
+.logo-item {
+  padding: 20px;
+  background: #ffffff;
+  color: #fff;
+}
+
+.separator-item {
+  padding: 20px 0;
+  background: #ffffff;
+  color: #fff;
+}
+
+.challenger-anchor {
+  display: grid;
+  justify-items: end;
+}
+
+.fidante-anchor {
+  display: grid;
+  justify-items: start;
 }

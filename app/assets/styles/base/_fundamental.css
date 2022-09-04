@@ -16,28 +16,10 @@ body {
   display: grid;
 }
 
-.grid-container {
-  background: #fff;
+a {
+  cursor: default;
 }
 
-.logo-item {
-  padding: 20px;
-  background: #ffffff;
-  color: #fff;
-}
-
-.separator-item {
-  padding: 20px 0;
-  background: #ffffff;
-  color: #fff;
-}
-
-.challenger-item {
-  display: grid;
-  justify-items: end;
-}
-
-.fidante-item {
-  display: grid;
-  justify-items: start;
+a img {
+  cursor: pointer;
 }
