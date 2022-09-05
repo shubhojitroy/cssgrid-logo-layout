@@ -30,3 +30,19 @@
   display: grid;
   justify-items: start;
 }
+
+a {
+  cursor: default;
+}
+
+a img {
+  cursor: pointer;
+}
+
+.logo-image {
+  width: 75%;
+}
+
+.separator-image {
+  width: 75%;
+}

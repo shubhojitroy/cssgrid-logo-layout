@@ -16,10 +16,7 @@ body {
   display: grid;
 }
 
-a {
-  cursor: default;
-}
-
-a img {
-  cursor: pointer;
+img {
+  width: 100%;
+  height: 100%;
 }
